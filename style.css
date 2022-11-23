@@ -1,0 +1,67 @@
+/* TODO */
+
+body {
+    background-color: lightgray;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#title {
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    padding-top: 5%;}
+
+p {
+    font-size: 18px;
+}
+
+
+form {
+    background-color: white;
+    padding: 4%;
+}
+
+label {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.main_div {
+    display: flex;
+}
+
+.sub_div {
+    background: brown;
+    padding: 5%;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    text-align: center;
+    margin-right: 4%;
+}
+
+.qst_number {
+    font-size: 20px;
+    color:white;
+    font-weight: bold;
+}
+
+#button {
+    text-align: center;
+}
+
+#button2 {
+    height: 60px;
+    width: 120px;
+    border-radius: 20px;
+    background-color: brown;
+    color: white;
+    font-size: 20 px;
+    font-weight: bold;
+}
+ 
+#button2:hover {
+    cursor: pointer;
+    background-color: black;
+}
